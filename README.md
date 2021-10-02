@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Suku1998
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sukureswar Sonowal
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning MCA
+- 📫 How to reach me 
+- phon no:8011677781
+
 
 <!---
 Suku1998/Suku1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
